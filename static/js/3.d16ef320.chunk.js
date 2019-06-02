@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{78:function(n,t,e){"use strict";e.r(t),t.default={title:"Probabilities of rolling D20's",tags:["math","DnD"],spoiler:"Exploring the pros and cons of the d20 system in DnD",getContent:function(){return e.e(6).then(e.bind(null,75))}}}}]);
+//# sourceMappingURL=3.d16ef320.chunk.js.map

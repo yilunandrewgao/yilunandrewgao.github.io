@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Yilun Gao&apos;s Blog</title>
+        <link>/</link>
+        <description>A Blog for My Random Thoughts</description>
+        <lastBuildDate>Sun, 02 Jun 2019 20:04:25 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Probabilities of rolling D20's]]></title>
+            <link>/posts/2019-06-01/DnD</link>
+            <guid>/posts/2019-06-01/DnD</guid>
+            <content:encoded><![CDATA[<div>Still working on this</div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hello World]]></title>
+            <link>/posts/2019-06-01/HelloWorld</link>
+            <guid>/posts/2019-06-01/HelloWorld</guid>
+            <content:encoded><![CDATA[<div><h2 id="hello-world">Hello, World!</h2><p>I don’t know how many people would read this, so perhaps this title should be “Hello, close relatives and friends who know me well”, but I will be optimistic and proceed assuming random internet strangers will one day read my blog. If you have not figured out already, this is my first post on my first blog. Throughout my life, I’ve maintained a relatively small social media footprint. Besides my LinkedIn and Facebook profile that I update once every 3 months, I do not use many other platforms for social media. No Instagram, no Snapchat, no Twitter, etc. So my reason for starting this blog is not to gain a social media following or raise a Twitter army. My main reason for starting this blog is so I can record notes from my life, my work, and my learning so that I can look back when I need to and not forget the things and ideas I’ve learned. And perhaps, my posts can also help others that will coincidentally face the same challenge I faced, maybe someone who can’t find the answer on StackOverflow, or Wikipedia, or from asking their friends.</p><p>I also started this blog to learn React. I recently started my first real job in the tech field and am trying to become a full stack engineer. Since I am relatively new to front-end coding, I used <code>create-react-blog</code> from <code>https://github.com/frontarm/create-react-blog</code> to generate the code for this blog. I plan on adding more than just posts in the future, such as a page about projects that I’ve done in the past and will do in the future or a more fleshed-out about me page.</p><p>Anyways, thanks for reading my first post. Here’s hoping that many more will follow.</p></div>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
